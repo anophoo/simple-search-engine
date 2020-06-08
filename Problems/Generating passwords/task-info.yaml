@@ -4,9 +4,6 @@ files:
   visible: true
   text: "fun main() {\n    // write your code here    \n}"
   learner_created: false
-- name: src/task.jar
-  visible: true
-  learner_created: true
-feedback_link: https://hyperskill.org/learn/step/9043
-status: Solved
+feedback_link: https://hyperskill.org/learn/step/9044
+status: Unchecked
 record: -1

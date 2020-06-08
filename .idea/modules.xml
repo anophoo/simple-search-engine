@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of characters/Problems-Initializing_an_array_of_characters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of characters/Problems-Initializing_an_array_of_characters.iml" group="Simple_Search_Engine/Problems-Initializing_an_array_of_characters" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of characters/Problems-Initializing_an_array_of_characters_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of characters/Problems-Initializing_an_array_of_characters_main.iml" group="Simple_Search_Engine/Problems-Initializing_an_array_of_characters" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of characters/Problems-Initializing_an_array_of_characters_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of characters/Problems-Initializing_an_array_of_characters_test.iml" group="Simple_Search_Engine/Problems-Initializing_an_array_of_characters" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" group="Simple_Search_Engine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Simple_Search_Engine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Simple_Search_Engine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Simple_Search_Engine/util" />
+    </modules>
+  </component>
+</project>
